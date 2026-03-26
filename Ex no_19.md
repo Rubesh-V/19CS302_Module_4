@@ -1,5 +1,5 @@
 # EX 19 C program to perform basic left and right shift operations on a given integer and display the result.
-## DATE:11/05/2025
+## DATE:25/03/2026
 ## AIM:
 To write a C program to perform basic left and right shift operations on a given integer and display the result.
 
