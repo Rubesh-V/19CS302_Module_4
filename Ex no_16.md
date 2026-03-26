@@ -1,5 +1,5 @@
 # EX 16 C program to find minimum between three fraction numbers using conditional operator.
-## DATE:11/05/2025
+## DATE:25/06/2026
 ## AIM:
 To write a C program to find minimum between three fraction numbers using conditional operator.
 
