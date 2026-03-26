@@ -1,5 +1,5 @@
 # EX 18 C program to find frequency of a character in the given input.
-## DATE:11/05/2025
+## DATE:25/03/2026
 ## AIM:
 To write a C program to find frequency of a character in the given input.
 
